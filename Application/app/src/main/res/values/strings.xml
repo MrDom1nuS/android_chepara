@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pet Shop</string>
+
+    <string name="default_text">List of items</string>
+    <string name="btn_text">Show list</string>
+
+    <string name="edu_level_txt">Delivery</string>
+    <string name="edu_level_d_txt">Courier delivery</string>
+    <string name="edu_level_pick_txt">Pick up</string>
+
+    <string name="additional_flg_txt">Sweets</string>
+    <string name="contract_flg_txt">For cats</string>
+    <string name="privilege_flg_txt">For dogs</string>
+
+    <string name="btn_send">Send message</string>
+    <string name="grp_txt">Group :</string>
+    <string name="faculty_txt">Category :</string>
+    <string name="btn_ok_txt">OK</string>
+    <string name="btn_grp_detail_txt">details</string>
+    <string name="btn_groups_txt">Pet groups</string>
+    <string name="btn_add">+</string>
+    <string name="btn_share">Share</string>
+</resources>

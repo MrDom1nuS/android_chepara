@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_group"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:title="@string/btn_add"/>
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/btn_share"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"
+        app:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"/>
+
+</menu>
